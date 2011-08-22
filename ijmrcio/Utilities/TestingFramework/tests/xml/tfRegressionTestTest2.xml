@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Thu Apr 30 14:35:53 2009
+ -->
+<output>
+<DartMeasurement name="TextString" type="text/string">string text value</DartMeasurement>
+<DartMeasurement name="TextPlain" type="text/plain">this is
+ some plain text
+</DartMeasurement>
+<DartMeasurement name="NumericInteger" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="NumericFloat" type="numeric/float">1.1</DartMeasurement>
+<DartMeasurement name="NumericDouble" type="numeric/double">2.222222222222222</DartMeasurement>
+<DartMeasurement name="NumericBoolean" type="numeric/boolean">1</DartMeasurement>
+</output>

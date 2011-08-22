@@ -1,0 +1,40 @@
+PROJECT( TESTINGFRAMEWORK )
+
+SET( TESTINGFRAMEWORK_LIB_SRC
+  tfBase64.cpp
+  tfRegressionTest.cpp
+  tfMeasurement.cpp
+  tfMeasurementVisitor.cpp
+  tfDiff.cpp
+  )
+
+FIND_PACKAGE ( ITK )
+
+IF ( ITK_FOUND )
+
+  INCLUDE ( ${ITK_USE_FILE} )
+  ADD_EXECUTABLE( tfPipeToXML tfPipeToXML.cxx )
+  TARGET_LINK_LIBRARIES( tfPipeToXML itksys testingframework )  
+  
+  # use itk's expat library 
+  SET( TESTINGFRAMEWORK_EXPAT_LIBRARIES ITKEXPAT )
+  
+ELSE ( ITK_FOUND )
+  # can't use itk's expat need to find it else where
+  FIND_PACKAGE ( EXPAT REQUIRED )
+  INCLUDE_DIRECTORIES("${EXPAT_INCLUDE_DIRS}" )
+  SET( TESTINGFRAMEWORK_EXPAT_LIBRARIES ${EXPAT_LIBRARIES} )
+ENDIF ( ITK_FOUND )
+
+INCLUDE_DIRECTORIES( "${TESTINGFRAMEWORK_BINARY_DIR}" )
+
+CONFIGURE_FILE("${TESTINGFRAMEWORK_SOURCE_DIR}/TestFrameworkConfigure.h.in"
+  "${TESTINGFRAMEWORK_BINARY_DIR}/TestFrameworkConfigure.h" IMEDIATE) 
+
+
+IF( BUILD_TESTING )
+  ADD_SUBDIRECTORY ( tests ) 
+ENDIF( BUILD_TESTING )
+
+ADD_LIBRARY( testingframework ${TESTINGFRAMEWORK_LIB_SRC} )
+TARGET_LINK_LIBRARIES( testingframework ${TESTINGFRAMEWORK_EXPAT_LIBRARIES} fileutil )

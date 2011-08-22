@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Wed Apr 29 15:26:43 2009
+ -->
+<output>
+<DartMeasurementFile name="Different Images PNG" type="image/itk">vm_head_coronal_diff.png</DartMeasurementFile>
+<DartMeasurementFile name="Different Images PNG to JPEG" type="image/itk">vm_head_coronal.png</DartMeasurementFile>
+</output>

@@ -1,0 +1,19 @@
+#ifndef _TF_REGRESSIONSUPPORT_H
+#define _TF_REGRESSIONSUPPORT_H
+
+
+namespace itk
+{
+
+
+static const char * const ITK_REGRESSION_OUTPUT = "@ITK_REGRESSION_OUTPUT_DIR@";
+static const char * const ITK_REGRESSION_XML_BASELINE = "@ITK_REGRESSION_XML_BASELINE@";
+static const char * const ITK_REGRESSION_DATA_BASELINE = "@ITK_REGRESSION_DATA_BASELINE@";
+static const char * const ITK_REGRESSION_INPUT = "@ITK_REGRESSION_DATA_BASELINE@";
+
+
+
+static const unsigned int ITK_TF_DIMENSION_MAX = 3;
+
+}
+#endif // _TF_REGRESSIONSUPPORT_H

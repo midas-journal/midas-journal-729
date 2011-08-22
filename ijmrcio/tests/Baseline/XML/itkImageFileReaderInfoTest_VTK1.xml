@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Wed Dec  9 14:12:09 2009
+ -->
+<output>
+<DartMeasurement name="ImageSize_0" type="numeric/integer">48</DartMeasurement>
+<DartMeasurement name="ImageSize_1" type="numeric/integer">62</DartMeasurement>
+<DartMeasurement name="ImageSize_2" type="numeric/integer">42</DartMeasurement>
+<DartMeasurement name="ImageSpacing_0" type="numeric/double">4</DartMeasurement>
+<DartMeasurement name="ImageSpacing_1" type="numeric/double">4</DartMeasurement>
+<DartMeasurement name="ImageSpacing_2" type="numeric/double">4</DartMeasurement>
+<DartMeasurement name="ImageOrigin_0" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageOrigin_1" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageOrigin_2" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_0_0" type="numeric/double">1</DartMeasurement>
+<DartMeasurement name="ImageDirection_0_1" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_0_2" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_1_0" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_1_1" type="numeric/double">1</DartMeasurement>
+<DartMeasurement name="ImageDirection_1_2" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_2_0" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_2_1" type="numeric/double">0</DartMeasurement>
+<DartMeasurement name="ImageDirection_2_2" type="numeric/double">1</DartMeasurement>
+<DartMeasurement name="FileTypeAsString" type="text/string">Binary</DartMeasurement>
+<DartMeasurement name="ByteOrderAsString" type="text/string">LittleEndian</DartMeasurement>
+<DartMeasurement name="PixelTypeAsString" type="text/string">scalar</DartMeasurement>
+<DartMeasurement name="ComponentTypeAsString" type="text/string">unsigned_char</DartMeasurement>
+<DartMeasurement name="NumberOfComponents" type="numeric/integer">1</DartMeasurement>
+</output>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Fri Jun  4 16:26:32 2010
+ -->
+<output>
+<DartMeasurement name="Size of MRCHeader" type="numeric/integer">1024</DartMeasurement>
+<DartMeasurement name="Size of MRCHeaderExtendedHeader" type="numeric/integer">128</DartMeasurement>
+<DartMeasurementFile name="itkMRCImageFileIOTest_1.mrc" type="image/itk">itkMRCImageFileIOTest_1.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_2.mrc" type="image/itk">itkMRCImageFileIOTest_2.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_3.mrc" type="image/itk">itkMRCImageFileIOTest_3.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_4.mrc" type="image/itk">itkMRCImageFileIOTest_4.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_5.mrc" type="image/itk">itkMRCImageFileIOTest_5.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_6.mrc" type="image/itk">itkMRCImageFileIOTest_6.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_7.mrc" type="image/itk">itkMRCImageFileIOTest_7.mrc</DartMeasurementFile>
+<DartMeasurementFile name="itkMRCImageFileIOTest_8.mrc" type="image/itk">itkMRCImageFileIOTest_8.mrc</DartMeasurementFile>
+<DartMeasurement name="Caught Exception" type="text/string">void itk::Local::MRCImageIO::UpdateHeaderFromImageIO()</DartMeasurement>
+<DartMeasurement name="Caught Exception" type="text/string">void itk::Local::MRCImageIO::UpdateHeaderFromImageIO()</DartMeasurement>
+<DartMeasurement name="Caught Exception" type="text/string">void itk::Local::MRCImageIO::UpdateHeaderFromImageIO()</DartMeasurement>
+<DartMeasurement name="Caught Exception" type="text/string">void itk::Local::MRCImageIO::UpdateHeaderFromImageIO()</DartMeasurement>
+<DartMeasurement name="Caught Exception" type="text/string">void itk::Local::MRCImageIO::UpdateHeaderFromImageIO()</DartMeasurement>
+</output>

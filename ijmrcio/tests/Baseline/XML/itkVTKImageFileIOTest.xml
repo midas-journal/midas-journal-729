@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Tue Jan 12 13:24:31 2010
+ -->
+<output>
+<DartMeasurementFile name="itkVTKImageFileIOTest_1.vtk" type="image/itk">itkVTKImageFileIOTest_1.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_2.vtk" type="image/itk">itkVTKImageFileIOTest_1.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_3.vtk" type="image/itk">itkVTKImageFileIOTest_3.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_4.vtk" type="image/itk">itkVTKImageFileIOTest_3.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_5.vtk" type="image/itk">itkVTKImageFileIOTest_5.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_6.vtk" type="image/itk">itkVTKImageFileIOTest_5.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_7.vtk" type="image/itk">itkVTKImageFileIOTest_7.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_8.vtk" type="image/itk">itkVTKImageFileIOTest_7.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_9.vtk" type="image/itk">itkVTKImageFileIOTest_9.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_10.vtk" type="image/itk">itkVTKImageFileIOTest_9.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_11.vtk" type="image/itk">itkVTKImageFileIOTest_11.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_12.vtk" type="image/itk">itkVTKImageFileIOTest_11.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_13.vtk" type="image/itk">itkVTKImageFileIOTest_13.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_14.vtk" type="image/itk">itkVTKImageFileIOTest_13.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_15.vtk" type="image/itk">itkVTKImageFileIOTest_15.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_16.vtk" type="image/itk">itkVTKImageFileIOTest_15.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_17.vtk" type="image/itk">itkVTKImageFileIOTest_17.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_18.vtk" type="image/itk">itkVTKImageFileIOTest_17.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_19.vtk" type="image/itk">itkVTKImageFileIOTest_19.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_20.vtk" type="image/itk">itkVTKImageFileIOTest_20.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_21.vtk" type="image/itk">itkVTKImageFileIOTest_21.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_22.vtk" type="image/itk">itkVTKImageFileIOTest_22.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_23.vtk" type="image/itk">itkVTKImageFileIOTest_23.vtk</DartMeasurementFile>
+<DartMeasurementFile name="itkVTKImageFileIOTest_24.vtk" type="image/itk">itkVTKImageFileIOTest_24.vtk</DartMeasurementFile>
+</output>

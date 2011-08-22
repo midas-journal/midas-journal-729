@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Wed Jan 13 15:20:12 2010
+ -->
+<output>
+<DartMeasurement name="Monitor::GetNumerOfUpdates" type="numeric/integer">1</DartMeasurement>
+<DartMeasurement name="Monitor::VerifyAllInputCanStream" type="numeric/boolean">1</DartMeasurement>
+<DartMeasurement name="Number Of Pixels Different" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="Testing" type="text/string">Pasting to copy of tilt_series.mrc as itkImageFileWriterPastingTest2_1.mrc</DartMeasurement>
+<DartMeasurement name="Monitor::GetNumerOfUpdates" type="numeric/integer">1</DartMeasurement>
+<DartMeasurement name="Monitor::VerifyAllInputCanStream" type="numeric/boolean">1</DartMeasurement>
+<DartMeasurement name="Number Of Pixels Different" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="Testing" type="text/string">Pasting to copy of HeadMRVolume.mrc as itkImageFileWriterPastingTest2_2.mrc</DartMeasurement>
+<DartMeasurement name="Caught Exception" type="text/string">virtual unsigned int itk::Local::StreamingImageIOBase::GetActualNumberOfSplitsForWriting(unsigned int, const itk::ImageIORegion&amp;, const itk::ImageIORegion&amp;)</DartMeasurement>
+</output>

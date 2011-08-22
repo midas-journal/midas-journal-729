@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Mon Jul 20 16:37:47 2009
+ -->
+<output>
+<DartMeasurement name="Monitor::VerifyAllInputCanStream" type="numeric/boolean">0</DartMeasurement>
+<DartMeasurement name="Monitor::VerifyAllInputCanNotStream" type="numeric/boolean">1</DartMeasurement>
+</output>

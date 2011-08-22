@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Tue Jul  7 16:57:34 2009
+ -->
+<output>
+<DartMeasurement name="Read Region Index_0" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="Read Region Index_1" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="Read Region Index_2" type="numeric/integer">0</DartMeasurement>
+<DartMeasurement name="Read Region Size_0" type="numeric/integer">100</DartMeasurement>
+<DartMeasurement name="Read Region Size_1" type="numeric/integer">77</DartMeasurement>
+<DartMeasurement name="Read Region Size_2" type="numeric/integer">1</DartMeasurement>
+</output>

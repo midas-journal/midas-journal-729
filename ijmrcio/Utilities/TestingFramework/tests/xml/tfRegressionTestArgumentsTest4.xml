@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- created on victoria.nlm.nih.gov at Wed Sep 16 09:54:28 2009
+ -->
+<output>
+<DartMeasurement name="ExpectedReturn" type="numeric/integer">1</DartMeasurement>
+<DartMeasurement name="Argument 0" type="text/string">tfRegressionTestArgumentsTest</DartMeasurement>
+</output>
